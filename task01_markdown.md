@@ -40,8 +40,12 @@
     
   **Tạo hình ảnh**
     
-    ![](đường dẫn)
+    ![text](link)
+  
+  **Tạo liên kết**
     
+    [text](link) hay link
+   
 #5.Cài đặt Sublime Text.
   Vào trang https://www.sublimetext.com/3 chọn phiên bản thích hợp rồi tải về (ở đây mình chọn OS X)
   ![](http://i.imgur.com/koucW59.png)
