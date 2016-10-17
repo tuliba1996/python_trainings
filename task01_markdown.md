@@ -9,19 +9,19 @@
 
 [**5.Cài đặt Sublime Text.**](#setup)
 
-#1.Github là gì? <a name="Github"></a>
+ <a name="Github"></a> #1.Github là gì?
   `GitHub` là một dịch vụ lưu trữ dựa trên web cho các dự án phát triển phần mềm trong đó sử dụng các hệ thống kiểm soát phiên bản **Git**.
   `Github` được viết bằng **Ruby on Rails**. `GitHub` cung cấp dịch vụ thương mại và cả tài khoản miễn phí cho các dự án nguồn mở.
-#2.Tạo Repository.
+ <a name="Repo"></a> #2.Tạo Repository.
   ![](http://i.imgur.com/QnrHz47.png)
   - Đặt tên cho `Repository`.
   - check vào ô `Public`.
   - check vào ô `Initialize this a repository with a README`.
   
-#3.Markdown là gì?
+ <a name="Mardown"></a> #3.Markdown là gì?
   `Markdown` là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành **HTML** và nhiều định dạng khác sử dụng một công cụ cùng tên. Nó thường được dùng để tạo các tập tin **README**, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
 
-#4.Các cú pháp thường gặp.
+ <a name="cuphap"></a> #4.Các cú pháp thường gặp.
   
   **Tạo tiêu đề**
   
@@ -66,7 +66,7 @@
 | col 3 is | right-aligned |    $1 |
     
    
-#5.Cài đặt Sublime Text.
+ <a name="setup"></a> #5.Cài đặt Sublime Text.
   Vào trang https://www.sublimetext.com/3 chọn phiên bản thích hợp rồi tải về (ở đây mình chọn OS X)
   ![](http://i.imgur.com/koucW59.png)
   Tải về rồi thì mở lên ta được:
