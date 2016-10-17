@@ -1,4 +1,15 @@
-#1.Github là gì?
+#Mục lục.
+[**1.Github là gì?**](#Github)
+
+[**2.Tạo Repository.**](#Repo)
+
+[**3.Markdown là gì?**](#Mardown)
+
+[**4.Các cú pháp thường gặp.**](#cuphap)
+
+[**5.Cài đặt Sublime Text.**](#setup)
+
+#1.Github là gì? <a name="Github"></a>
   `GitHub` là một dịch vụ lưu trữ dựa trên web cho các dự án phát triển phần mềm trong đó sử dụng các hệ thống kiểm soát phiên bản **Git**.
   `Github` được viết bằng **Ruby on Rails**. `GitHub` cung cấp dịch vụ thương mại và cả tài khoản miễn phí cho các dự án nguồn mở.
 #2.Tạo Repository.
