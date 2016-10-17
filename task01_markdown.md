@@ -45,6 +45,15 @@
   **Tạo liên kết**
     
     [text](link) hay link
+    
+  **Tạo bảng**
+  
+| Tables   |      Are      |  Cool |
+|----------|---------------|-------|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
    
 #5.Cài đặt Sublime Text.
   Vào trang https://www.sublimetext.com/3 chọn phiên bản thích hợp rồi tải về (ở đây mình chọn OS X)
