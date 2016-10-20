@@ -16,8 +16,8 @@
 
 Chúng ta có thể sử dụng `Python` như một máy tính đơn giản. thực hiện các phép toán `+`,`-`,`*`,`/`. ví dụ:
 
+![](http://i.imgur.com/8JntMKs.png)
 
-`IMG`
 Các toán tử số học cơ bản:
 
 |**Toán tử**|**Miêu tả**|
@@ -60,7 +60,7 @@ Kiểu dữ liệu `String` được xác định khi giá trị được gán c
     'lang tu sau'
     "Sầu sô ciu"
 
-`IMG`
+![](http://i.imgur.com/gCovVu1.png)
 
 Nối chuỗi:
 
@@ -69,7 +69,7 @@ Nối chuỗi:
     a + b = 'Python'
     c = 'Hoc' + a + b
 
-`IMG`
+![](http://i.imgur.com/8CUvN3M.png)
 
 Cắt chuỗi:
 
@@ -79,7 +79,7 @@ Cắt chuỗi:
     text[0:2]
     >> 'he'
 
-`IMG`
+![](http://i.imgur.com/IaonhWZ.png)
 
 <a name="List"></a>
 
@@ -106,7 +106,7 @@ Nối list:
     fruit + drink 
     >> ['apple','grap','orange','lemon','coffee','milk','lemonade','wine']
 
-`IMG`
+![](http://i.imgur.com/WvSoyMC.png)
 
 Cắt danh sách:
 
@@ -121,7 +121,7 @@ Cắt danh sách:
     >> [1,2,3]
 
 
-`IMG`
+![](http://i.imgur.com/0egT3V1.png)
 
 <a name="Boolea"></a>
 
@@ -131,7 +131,7 @@ Kiểu **Boolean** là kiểu chỉ có 2 giá trị **True(đúng)** và **Fals
 
 Toán tử so sánh:
 
-`IMG`
+![](http://i.imgur.com/ib5obiE.png)
 
 Toán tử logic:
 
