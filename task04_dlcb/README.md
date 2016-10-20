@@ -2,13 +2,15 @@
 
 [1.Sử dụng Python như máy tính (Calculator)](#Calculator)
 
-[2.Tìm hiểu kiểu dữ liệu number. Khác với C chỗ nào?](#number)
+[2.Tìm hiểu kiểu dữ liệu number. Khác với C chỗ nào?](#Number)
 
-[3.Tìm hiểu về String: nối chuỗi, cắt lát (slicing)](#string)
+[3.Tìm hiểu về String: nối chuỗi, cắt lát (slicing)](#String)
 
-[4.Tìm hiểu list 1 chiều và nhiều chiều: nối danh sách, cắt lắt.](#list)
+[4.Tìm hiểu list 1 chiều và nhiều chiều: nối danh sách, cắt lắt.](#List)
 
 [5.Tìm hiểu Boolean.](#Boolean) 
+
+<a name="Calculator"></a>
 
 #1.Sử dụng Python như máy tính (Calculator)
 
@@ -27,6 +29,8 @@ Các toán tử số học cơ bản:
 | // | phép chia lấy phần nguyên|
 | % | phép chia lấy dư|
 | ** | phép lấy số mũ|
+
+<a name="Number"></a>
 
 #2.Tìm hiểu kiểu dữ liệu number. Khác với C chỗ nào?
 
@@ -48,6 +52,7 @@ Trong `Python` khác với `C` ở các điểm:
 - Trong `Python` có hỗ trợ kiểu dữ liệu **complex** còn `C` thì không. 
 
 
+<a name="String"></a>
 #3.Tìm hiểu về String: nối chuỗi, cắt lát (slicing)
 
 Kiểu dữ liệu `String` được xác định khi giá trị được gán cho nó nằm giữa cặp dấu `‘ ‘` hoặc `” “`.
@@ -75,6 +80,8 @@ Cắt chuỗi:
     >> 'he'
 
 `IMG`
+
+<a name="List"></a>
 
 #4.Tìm hiểu list 1 chiều và nhiều chiều: nối danh sách, cắt lắt.
 
@@ -116,6 +123,8 @@ Cắt danh sách:
 
 `IMG`
 
+<a name="Boolea"></a>
+
 #5.Tìm hiểu Boolean.
 
 Kiểu **Boolean** là kiểu chỉ có 2 giá trị **True(đúng)** và **False(sai)**. Trong Python, có hai toán tử cơ bản liên quan đến boolean là **Toán tử so sánh** và **Toán tử logic**.
@@ -127,7 +136,7 @@ Toán tử so sánh:
 Toán tử logic:
 
 | A | B | And | Or |
-|----|-----|----|
+|----|-----|----|----|
 | 0 | 0 | 1 | 0 | 
 | 0 | 1 | 0 | 1 | 
 | 1 | 0 | 0 | 1 |
