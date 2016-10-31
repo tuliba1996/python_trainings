@@ -1,0 +1,12 @@
+
+str = 'duanZ'
+
+key = 1
+for i in str:
+	a=''
+	a = ord(i) + key
+	if a>122:
+		c= a-58
+	b = chr(c)
+	b +=b
+	print b
